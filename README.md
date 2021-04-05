@@ -1,4 +1,5 @@
 # u-slash
+
 Command line script that downloads unique files from Reddit users' submissions
 
 ## Installation
